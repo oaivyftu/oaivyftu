@@ -17,4 +17,4 @@ My goal is to design clean, modular systems that scale — technically, operatio
 <br/>
 
 ## LeetCode
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=vincentle_swe&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vincentle_swe?theme=light&font=Salsa)
