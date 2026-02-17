@@ -12,7 +12,7 @@ My goal is to design clean, modular systems that scale — technically, operatio
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,react,vue,nextjs,nodejs,php,laravel,git,mysql,mongodb&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,react,vue,nextjs,nodejs,php,laravel,git,mysql,mongodb)](https://skillicons.dev)
 
 <br/>
 
